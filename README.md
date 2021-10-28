@@ -1,4 +1,4 @@
-# Paspi
+# Raspi
 
 У меня получилось, вот тут по аналогии как можно поставить - там вообще как на любой дебиан на малинке поставить  https://github.com/Kanga-Who/home-assistant/blob/master/Supervised%20on%20Raspberry%20Pi%20with%20Debian.md 
 
